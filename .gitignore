@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code / PyCharm project files (just in case)
+*.iml
+.idea/
+.vscode/
+.git/
+/pyPAS.egg-info/# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Build/packaging
+*.egg-info/
+dist/
+build/
+
+# IDE/project files
+.vscode/
+.idea/
+*.swp
+.DS_Store
